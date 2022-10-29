@@ -25,7 +25,7 @@ main {
     background-color: var(--light-gray);
 }
 .tarjeta {
-    width: 300px;
+    max-width: 300px;
     padding: 20px;
     background-color: var(--white);
     border-radius: 20px;
